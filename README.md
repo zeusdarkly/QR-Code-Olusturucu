@@ -7,6 +7,7 @@ Bu proje, girdiğiniz kelime, cümle, bağlantı (URL) ve diğer verileri QR kod
 - Metin, cümle, URL gibi girdileri QR koda dönüştürme
 - Oluşturulan QR kodlarını kaydetme ve paylaşma
 - Kullanıcı dostu arayüz
+- İstenilen renkte QR kod oluşturma: Sol üst köşede bulunan iki renk kutucuğunu kullanarak QR kodunuzun rengini özelleştirin
 
 ![Ekran görüntüsü 2024-08-12 192628](https://github.com/user-attachments/assets/5f31b11e-5e1e-4e4c-8cf5-9d6347e305c8)
 
