@@ -8,6 +8,8 @@ Bu proje, girdiğiniz kelime, cümle, bağlantı (URL) ve diğer verileri QR kod
 - Oluşturulan QR kodlarını kaydetme ve paylaşma
 - Kullanıcı dostu arayüz
 
+![Ekran görüntüsü 2024-08-12 192448](https://github.com/user-attachments/assets/e2857ce7-3827-4a9a-9199-8dceba251995)
+
 ## Kurulum
 
  **Gerekli Kütüphaneleri Yükleyin:**
